@@ -179,6 +179,7 @@ local function infiniteJumpToggle()
 end
 
 -- Add buttons to menu
+createButton("Created by Mikxerx")
 createButton("Toggle God Mode", 10, toggleGodMode)
 createButton("Toggle Fly", 50, toggleFly)
 createButton("Toggle No Clip", 90, toggleNoClip)
